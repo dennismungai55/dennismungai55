@@ -1,18 +1,18 @@
-Hi , I'm Dennis Mungai 
+Hi , # I'm  Dennis  Mungai
 
+## About Me
+- I'm currently learning momentaliry learning commerce
+- I'm interested in AI,web development and data science
+- I'm looking to collaborate on beginner-friendly open source projects
 
-<!--
-**dennismungai55/dennismungai55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills I'm Building
+- Git and GitHub
+- HTML/CSS/JS
 
-About Me:
+## Current Projects
+- FLOOD  NAVI
 
-- 🔭 I’m currently working on AI and website development 
-
-- 🌱 I’m currently learning surgical nursing in Nairobi 
-- 👯 I’m looking to collaborate on Web development and AI
-- 🤔 I’m looking for help with building skills in Technology 
-- 💬 Ask me about ...
-- 📫 How to reach me: Email - mungaidennis962@gmail.com
-- 😄 Pronouns: He ,Him
-- ⚡ Fun fact: What goes up but don't come down. Answer Age
--->
+## How to Reach Me
+- Email: mungaidennis962@gmail.com
+- 
+  
